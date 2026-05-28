@@ -1,0 +1,68 @@
+Frequency	Input	License	Tone	Description	Category	Tag	Updated
+33.860000		KYL616	CSQ	Fire Dispatch/Operations (being phased out)	Fire/EMS	Fire Dispatch	2018-07-03
+33.920000		KZF831		Station 21 - Beach Lake Fireground	Fire/EMS	Fire-Tac	2009-07-29
+37.460000		KWG479	CSQ	PPL Dispatch	Power Utilities	Utilities	2009-06-30
+122.800000			CSQ	CTAF/Unicom	Cherry Ridge Airport (N30)	Aircraft	2008-02-04
+122.900000			CSQ	CTAF	Spring Hill Airport (70N)	Aircraft	2010-09-28
+145.110000	144.51000	K1NRA	94.8 PL	Carbondale Salem Mountain	2m Ham	Ham	2025-01-04
+145.210000	144.61000	WA3REC	88.5 PL	WA3REC Manchester (Equinunk)	2m Ham	Ham	2025-01-04
+147.270000	147.87000	WA3REC	79.7 PL	WA3REC Farview Mtn (Waymart)	2m Ham	Ham	2025-01-04
+151.415000		WQGD279	167.9 PL	Fire 1 / Dispatch	Fire/EMS	Fire Dispatch	2009-07-29
+151.565000			624 DPL	Wayne Medics Private Channel	Fire/EMS	EMS-Tac	2014-03-22
+152.082500				Site 001 Equinunk (WAYN11)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2022-06-23
+152.112500				Site 001 Equinunk (WAYN11)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2022-06-23
+152.127500				Site 001 Equinunk (WAYN11)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2022-06-23
+152.465000	157.72500	WPQJ539		The Hideout POA - Public Safety Ch 2 Operations	Private Residential Communities	Security	2019-08-02
+153.177500				Site 099 Orson (WAYN33)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2025-08-30
+153.215000	158.29500	WPQJ539		The Hideout POA - Public Safety Ch 1 Dispatch	Private Residential Communities	Security	2020-06-27
+153.215000	158.29500	WPQJ539		The Hideout POA - Maintenance	Private Residential Communities	Business	2020-08-03
+153.357500				Site 099 Orson (WAYN33)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2025-08-30
+153.830000		KB91657		Station 9 - Hawley Fireground	Fire/EMS	Fire-Tac	2009-07-29
+153.890000				Station 43 - Browndale Fireground	Fire/EMS	Fire-Tac	2009-07-29
+153.890000			CSQ	Forest Fireground	Fire/EMS	Fire-Tac	2013-01-16
+153.912500		WQKK534	167.9 PL	Fireground 5	Fire/EMS	Fire-Tac	2013-01-16
+153.957500		WQKG813	167.9 PL	Fire Police	Fire/EMS	Fire-Talk	2013-01-16
+154.002500	151.12250	WQKK535		Sheriff - Courthouse Security	Law Enforcement	Law Tac	2018-07-03
+154.085000		WPIX458	CSQ	Public Works	Manchester	Public Works	2018-07-03
+154.430000		KNCB739	156.7 PL	Hamlin Fire & Rescue Company	Fire/EMS	Fire-Talk	2010-12-18
+154.792500				Site 098 Indian Orchard (WAYN31)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2020-03-04
+154.920000				Site 098 Indian Orchard (WAYN31)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2020-03-04
+154.942500				Site 098 Indian Orchard (WAYN31)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2020-03-04
+155.042500	158.89500	WQLL222		Police Local	Hawley	Law Tac	2018-07-03
+155.137500		WQKK534	167.9 PL	Fireground 6	Fire/EMS	Fire-Tac	2013-01-16
+155.310000		KDU721	156.7 PL	EMS Dispatch & Operations	Fire/EMS	EMS Dispatch	2018-07-03
+155.460000				Site 099 Orson (WAYN33)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2025-08-30
+155.677500		WQGD279	167.9 PL	Fire 2 / Command	Fire/EMS	Fire-Tac	2009-07-30
+155.745000		WQGS322	82.5 PL	Waymart Fireground	Fire/EMS	Fire-Tac	2013-01-16
+155.820000		KGH501	82.5 PL	Police Local	Honesdale	Law Tac	2018-07-03
+155.895000	158.95500	WPUP326		Transportation/Paging	Services	Transportation	2018-07-03
+155.917500		WQGD279	167.9 PL	Fireground 3	Fire/EMS	Fire-Tac	2013-01-16
+156.037500		WQGD279	167.9 PL	Fireground 4	Fire/EMS	Fire-Tac	2013-01-16
+156.172500				Site 098 Indian Orchard (WAYN31)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2020-03-04
+158.835000			91.5 PL	Emergency Management Agency	Services	Emergency Ops	2013-01-16
+159.150000	156.15000	WPUK803	82.5 PL	Police Dispatch	Law Enforcement	Law Dispatch	2020-04-05
+159.187500		WPWP654	100.0 PL	Public Works	Damascus	Public Works	2018-07-03
+159.390000	153.93500	WQGQ322	445 DPL	Public Works	Greene	Public Works	2018-07-03
+407.612500				Site 001 USP Canaan	United States Penitentiary Canaan	TRS	2023-07-08
+409.412500				Site 001 USP Canaan	United States Penitentiary Canaan	TRS	2023-07-08
+410.200000				Site 001 USP Canaan	United States Penitentiary Canaan	TRS	2023-07-08
+410.525000				Site 001 USP Canaan	United States Penitentiary Canaan	TRS	2023-07-08
+410.812500				Site 001 USP Canaan	United States Penitentiary Canaan	TRS	2023-07-08
+440.056250	445.05625	K1NRA		Carbondale Salem Mountain	70cm Ham	Ham	2020-07-24
+445.225000	440.22500	WA3REC	71.9 PL	WA3REC Mount Ararat (Orson)	70cm Ham	Ham	2025-01-04
+452.000000				Site 021 Beach Lake	Industrial Electronics (448)	TRS	2025-05-05
+452.125000				Site 021 Beach Lake	Industrial Electronics (448)	TRS	2025-05-05
+452.450000				Site 056 Waymart	Mid-Atlantic Digital Radio Network	TRS	2018-07-19
+452.725000				Site 056 Waymart	Mid-Atlantic Digital Radio Network	TRS	2018-07-19
+452.750000				Site 021 Beach Lake	Industrial Electronics (448)	TRS	2025-05-05
+452.975000				Site 056 Waymart	Mid-Atlantic Digital Radio Network	TRS	2018-07-19
+453.662500	458.66250	WQEB606		Correctional Operations	Law Enforcement	Corrections	2018-07-03
+460.362500	465.36250	WQEB606	186.2 PL	Sheriff	Law Enforcement	Law Dispatch	2018-07-03
+461.862500	466.86250	WQGX579	132 DPL	Wayne Highlands School District - Admin/Maint	Local Schools	Schools	2009-01-10
+461.987500				Site 010 Preston Park	Industrial Electronics (264)	TRS	2017-04-22
+462.100000				Site 010 Preston Park	Industrial Electronics (264)	TRS	2017-04-22
+463.375000				Site 010 Preston Park	Industrial Electronics (264)	TRS	2017-04-22
+463.587500				Site 010 Preston Park	Industrial Electronics (264)	TRS	2017-04-22
+463.712500				Site 010 Preston Park	Industrial Electronics (264)	TRS	2017-04-22
+464.437500				Site 010 Preston Park	Industrial Electronics (264)	TRS	2017-04-22
+464.850000				Site 010 Preston Park	Industrial Electronics (264)	TRS	2017-04-22
