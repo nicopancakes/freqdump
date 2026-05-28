@@ -1,0 +1,310 @@
+Frequency	Input	License	Tone	Description	Category	Tag	Updated
+33.980000		KWH498	CSQ	Low Band F-1	Fire	Fire Dispatch	2017-02-20
+120.275000			CSQ	ATIS	Pocono Mountains Municipal Airport (KMPO)	Aircraft	2014-02-14
+122.700000			CSQ	CTAF/Unicom	Pocono Mountains Municipal Airport (KMPO)	Aircraft	2011-02-01
+122.700000			CSQ	CTAF / Unicom	Pegasus Air Park (50PA)	Aircraft	2008-02-10
+122.900000			CSQ	CTAF	Flying Dollar Airport (8N4)	Aircraft	2008-02-23
+123.000000			CSQ	CTAF / Unicom	Stroudsburg-Pocono Airport (N53)	Aircraft	2008-02-10
+125.300000			CSQ	Clearance Delivery	Pocono Mountains Municipal Airport (KMPO)	Aircraft	2011-02-01
+145.230000		N3VAE	77.0 PL	N3VAE Skywarn	2m Ham	Ham	2011-11-26
+146.865000		WX3OES	100.0 PL	WX3OES Emergency	2m Ham	Ham	2011-11-26
+147.045000		WA3MDP	131.8 PL	WA3MDP	2m Ham	Ham	2011-11-26
+147.360000	147.96000	N3GRQ	131.8 PL	N3GRQ	2m Ham	Ham	2024-03-25
+147.360000	147.96000	N3GRQ	293 NAC	N3GRQ	2m Ham	Ham	2024-03-25
+151.175000				Site 097 Mount Pocono (MONR03)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2023-03-26
+151.542500				Site 097 Mount Pocono (MONR03)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2023-03-26
+151.625000			114.8 PL	Four Seasons Campgrounds - Operations	Miscellaneous	Business	2013-09-09
+151.655000		WNAB381	146.2 PL	Arrowhead Lakes Community - Operations	Residential Communities	Business	2013-07-12
+151.895000		KNBM747	143 DPL	Poocno Farms Homeowners Assn - Tobyhanna	Residential Communities	Business	2014-02-14
+151.910000		WPMZ938	664 DPL	Sky Top Lodge - Operations	Hotels	Business	2013-11-18
+152.337500	157.59750	WNWP881	243 DPL	Inn at Pocono Manor - Operations	Hotels	Business	2013-11-23
+154.570000			CSQ	Walmart Supercenter - Mt. Pocono	Retail Operations	Business	2013-12-14
+154.755000				Site 097 Mount Pocono (MONR03)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2023-03-26
+155.235000		WQDZ674	664 DPL	EMS - St. Luke's Base A-5	EMS	Hospital	2020-02-20
+155.280000		WXT827	186.2 PL	EMS - Secondary Response A-1	EMS	EMS-Tac	2020-02-20
+155.340000		WXT827	186.2 PL	EMS - LVH-Pocono Creek Base A-2	EMS	Hospital	2026-04-01
+155.355000		WQPN448	186.2 PL	EMS - LVH-Pocono Base A-3	EMS	Hospital	2020-01-10
+155.400000		WPEN760	186.2 PL	EMS - Primary Response A-6	EMS	EMS Dispatch	2022-01-11
+156.105000		KNBA769	125 DPL	Road Department	Hamilton Township	Public Works	2018-03-07
+156.165000		KNHJ521	100.0 PL	Public Works	Ross Township	Public Works	2018-03-07
+158.400000		WQQU922	174 DPL	Wawa Stores Inc. (Blakeslee Corners)	Retail Operations	Business	2017-07-07
+159.135000	155.95500	WPNX741	3D4 NAC	EMS P-25	EMS	EMS-Tac	2020-04-09
+159.135000		WPNX741	125 DPL	Highways	Pocono Township	Public Works	2011-05-17
+159.195000	156.04500	KNEG218	432 DPL	Road Department	Middle Smithfield Township	Public Works	2018-03-08
+380.387500				Site 001 Primary	Tobyhanna Army Depot	TRS	2025-07-24
+380.437500				Site 001 Primary	Tobyhanna Army Depot	TRS	2025-07-24
+380.687500				Site 001 Primary	Tobyhanna Army Depot	TRS	2025-07-24
+380.862500				Site 001 Primary	Tobyhanna Army Depot	TRS	2025-07-24
+441.550000				Site 310300 Camelback Mountain (CB)	Interstate Repeater System	TRS	2020-03-25
+442.500000	447.50000	N3KZ	131.8 PL	Camelback Mtn UPenn ARC	70cm Ham	Ham	2019-07-30
+444.450000	449.45000	W3BXW	131.8 PL	Camelback Mtn BEARS	70cm Ham	Ham	2019-07-30
+445.375000	440.37500	K4MTP	131.8 PL	Pohopoco Mtn	70cm Ham	Ham	2019-07-30
+445.475000	440.47500	KO3Q		KO3Q Shawnee Mtn	70cm Ham	Ham	2025-11-21
+446.576000	441.57500	KG3I	151.4 PL	Pimple Hill	70cm Ham	Ham	2019-07-30
+446.725000	441.72500	N3GRQ	131.8 PL	N3GRQ	70cm Ham	Ham	2023-06-28
+446.725000	441.72500	N3GRQ	293 NAC	N3GRQ	70cm Ham	Ham	2023-06-28
+448.275000	443.27500	N3BUB	131.8 PL	Long Pond	70cm Ham	Ham	2019-07-30
+448.375000	443.37500	N3JNZ	91.5 PL	Wooddale	70cm Ham	Ham	2019-07-30
+448.475000	443.47500	N3VAE	123.0 PL	Long Pond	70cm Ham	Ham	2019-07-30
+448.625000	443.62500	W3NTT	210.7 PL	Pimple Hill - Full time link to Eastern PA AllStar Hub 52008	70cm Ham	Ham	2021-07-11
+449.825000	444.82500	KC2IRV		Pimple Hill (BrandMeister)	70cm Ham	Ham	2021-07-13
+451.225000				Site 023 Stroudsburg	Industrial Electronics (264)	TRS	2017-05-11
+451.300000				Site 001 Primary	Mount Airy Casino Resort	TRS	2014-02-05
+451.337500	456.33750	WPVZ924	754 DPL	West Campus - Operations	Pocono Mountain School District	Schools	2014-02-14
+451.337500	456.33750	WPVZ924	143 DPL	East Campus - Operations	Pocono Mountain School District	Schools	2014-02-14
+451.425000	456.42500	WPPU753	127.3 PL	Penn Estates Home Owners Association - Security	Residential Communities	Security	2009-04-20
+451.450000				Site 001 Stroudsburg	Industrial Electronics (Tannersville)	TRS	2014-12-03
+451.450000				Site 012 Tannersville	Industrial Electronics (264)	TRS	2017-05-12
+451.475000	456.47500		073 DPL	Security	Pocono Raceway	Business	2017-06-12
+451.500000		WQMQ830	131 DPL	Pocono Mountain Vol Fire Co - Private Channel	Pocono Mountain Fire	Fire-Tac	2024-10-22
+451.600000				Site 001 Big Pocono	Radio Maintenance (Camelback Mountain)	TRS	2014-03-22
+451.650000	456.65000		114 DPL	Catering Services	Pocono Raceway	Business	2017-06-12
+451.650000				Site 002 Unconfirmed LCN	Industrial Electronics (Blakeslee)	TRS	2010-05-30
+451.650000				Site 023 Stroudsburg	Industrial Electronics (264)	TRS	2017-05-11
+451.650000				Site 029 Blakeslee	Industrial Electronics (264)	TRS	2017-04-20
+451.687500	456.68750	WQYR706	205 DPL	Brookmont Healthcare and Rehabilitation	Senior Living	Business	2017-10-07
+451.725000				Site 002 Unconfirmed LCN	Industrial Electronics (Blakeslee)	TRS	2010-05-30
+451.725000				Site 029 Blakeslee	Industrial Electronics (264)	TRS	2017-04-20
+451.750000				Site 002 Unconfirmed LCN	Industrial Electronics (Blakeslee)	TRS	2010-05-30
+451.750000				Site 029 Blakeslee	Industrial Electronics (264)	TRS	2017-04-20
+451.800000		WQQU922	506 DPL	Wawa Stores Inc. (Blakeslee Corners)	Retail Operations	Business	2017-07-07
+451.825000				Site 012 Tannersville	Industrial Electronics (264)	TRS	2017-05-12
+451.900000			445 DPL	Grandstand Security	Pocono Raceway	Business	2017-06-12
+451.925000	456.92500		047 DPL	Ch. 2 - Security	Pocono Raceway	Business	2017-06-12
+451.950000	456.95000	WQUQ757		Maintenance	Kalahari Resorts	Business	2016-10-26
+451.950000	456.95000	WQUQ757		Housekeeping	Kalahari Resorts	Business	2016-10-26
+451.987500	456.98750	WQCK343	110.9 PL	High School South Security	East Stroudsburg School District	Security	2023-06-03
+452.012500	457.01250	WQCW520		Crossing Premium Outlets - Security	Retail Operations	Business	2017-08-06
+452.012500	457.01250	WQCW520		Crossing Premium Outlets - Operations	Retail Operations	Business	2017-08-06
+452.012500	457.01250	WQUQ757		Operations	Kalahari Resorts	Business	2016-10-26
+452.050000				Site 012 Tannersville	Industrial Electronics (264)	TRS	2017-05-12
+452.075000	457.07500		023 DPL	Ch. 4 - Security/Traffic/Gates	Pocono Raceway	Business	2017-06-12
+452.100000				Site 002 Unconfirmed LCN	Industrial Electronics (Blakeslee)	TRS	2010-05-30
+452.100000				Site 023 Stroudsburg	Industrial Electronics (264)	TRS	2017-05-11
+452.100000				Site 029 Blakeslee	Industrial Electronics (264)	TRS	2017-04-20
+452.125000		WQEG209	664 DPL	West End Fire Co - Private Channel	Chestnuthill Township	Fire-Talk	2018-03-07
+452.150000				Site 012 Tannersville	Industrial Electronics (264)	TRS	2017-05-12
+452.200000	457.20000	WPTK331	624 DPL	Security	Stroudsburg Area School District	Security	2013-01-13
+452.250000				Site 001 Confirmed LCN	Industrial Electronics (Blakeslee)	TRS	2012-04-16
+452.250000				Site 023 Stroudsburg	Industrial Electronics (264)	TRS	2017-05-11
+452.250000				Site 029 Blakeslee	Industrial Electronics (264)	TRS	2017-04-20
+452.262500				Site 001 Stroudsburg	Industrial Electronics (Tannersville)	TRS	2014-12-03
+452.275000				Site 012 Tannersville	Industrial Electronics (264)	TRS	2017-05-12
+452.375000				Site 023 Stroudsburg	Industrial Electronics (264)	TRS	2017-05-11
+452.387500		WPNS932		East School - Maintenance	Pocono Mountain School District	Schools	2021-12-18
+452.400000				Site 012 Tannersville	Industrial Electronics (264)	TRS	2017-05-12
+452.450000	457.45000	WPQJ753	031 DPL	Indian Mountain Lake - Operations	Residential Communities	Business	2017-10-07
+452.450000				Site 029 Blakeslee	Industrial Electronics (264)	TRS	2017-04-20
+452.475000		WNHJ223	546 DPL	Raceway Use	Pocono Raceway	Business	2017-06-12
+452.500000				Site 001 Stroudsburg	Industrial Electronics (Tannersville)	TRS	2014-12-03
+452.500000				Site 012 Tannersville	Industrial Electronics (264)	TRS	2017-05-12
+452.650000				Site 001 Primary	Mount Airy Casino Resort	TRS	2014-02-05
+452.675000				Site 012 Tannersville	Industrial Electronics (264)	TRS	2017-05-12
+452.750000				Site 012 Tannersville	Industrial Electronics (264)	TRS	2017-05-12
+452.825000				Site 023 Stroudsburg	Industrial Electronics (264)	TRS	2017-05-11
+452.850000				Site 012 Tannersville	Industrial Electronics (264)	TRS	2017-05-12
+452.887500		WQAW315	023 DPL	High School	Stroudsburg Area School District	Schools	2023-06-03
+452.887500	457.88750	WQVL964		Camelback Lodge & Waterpark - Maintenance	Attractions	Business	2017-08-06
+453.075000	458.07500	WPGV974	664 DPL	Fire North	Fire	Fire-Tac	2015-12-12
+453.125000	458.12500	WQG366	265 DPL	Emergency / Mutual Aid (Countywide)	Emergency Management	Interop	2009-01-11
+453.200000		WNMH302	210.7 PL	Monroe County Correctional Facility Ops1	Law Enforcement	Corrections	2014-05-29
+453.262500	458.26250	WPUG892	503 DPL	Public Works	Stroudsburg Borough	Public Works	2023-06-03
+453.287500	458.28750	KNNY470	343 DPL	Windgap Repeater	Blue Ridge Hook and Ladder Fire Co	Fire-Tac	2026-03-03
+453.387500	458.38750	WQAI283	723 DPL	Fire Dept Private	Jackson Township	Fire-Talk	2021-04-16
+453.412500	458.41250	WPKS910	244 DPL	Fire Repeater	Fire	Fire-Tac	2013-09-01
+453.425000	458.42500	KNHT419	223 DPL	Incident Command	Emergency Management	Emergency Ops	2019-07-15
+453.450000	458.45000	WPGU667	516 DPL	EMS Services (Monroe County)	Pocono Raceway	EMS-Tac	2017-06-12
+453.450000	458.45000	WPGU667	516 DPL	EMS Command	EMS	EMS-Tac	2020-01-10
+453.500000		WPPA476	162 DPL	Services	Pocono Township	Public Works	2011-05-17
+453.500000		WPPA476	162 DPL	Fire Station 37 - Private Channel	Stroud Township	Fire-Talk	2018-03-07
+453.525000	458.52500	WQWB396	118.8 PL	Fire Central	Fire	Fire-Tac	2015-12-12
+453.537500		WPKS910	664 DPL	Fire Tactical	Fire	Fire-Tac	2016-06-06
+453.550000		WPTE877	192.8 PL	Monroe County Correctional Facility 3	Law Enforcement	Corrections	2014-05-29
+453.550000	458.55000	WPTE877	172 DPL	County Maintenance	Stroudsburg Borough	Public Works	2023-06-03
+453.587500		WPGY667		Fireground 1	Fire	Fire-Talk	2013-01-02
+453.612500	458.61250	WQAI283	723 DPL	Highway Department	Jackson Township	Public Works	2011-05-17
+453.637500		WPGY667		Fireground 3	Fire	Fire-Talk	2013-01-02
+453.712500		WPGY667		Fireground 5	Fire	Fire-Talk	2013-01-02
+453.750000	458.75000	WPGF508	CSQ	Fire/EMS Dispatch	Fire	Fire Dispatch	2013-08-03
+453.925000	458.92500	WQBR917	546 DPL	East Stroudsburg Fire Dept	East Stroudsburg Borough	Fire-Talk	2017-09-04
+454.000000				MRN Radio Broadcast	Pocono Raceway	Media	2017-07-31
+454.100000				Indy Car Radio - Track Broadcast	Pocono Raceway	Business	2017-08-23
+454.218750				Site 024 Tannersville	Mid-Atlantic Digital Radio Network	TRS	2019-01-03
+454.400000				CBS Sports IFB Feeds	Pocono Raceway	Media	2017-07-31
+454.550000				Site 024 Tannersville	Mid-Atlantic Digital Radio Network	TRS	2019-01-03
+455.362500				Mount Airy Casino Resort - Maintenance	Miscellaneous	Business	2014-10-10
+456.512500		WQAW315	223 DPL	Junior High School	Stroudsburg Area School District	Schools	2023-06-03
+457.000000		WNHJ223	346 DPL	Raceway Use	Pocono Raceway	Business	2017-06-12
+457.325000		WNHJ223	223 DPL	Parking Control	Pocono Raceway	Business	2017-06-12
+457.862500			664 DPL	FedEx Ground Distribution (Pocono Summit)	Delivery Service	Business	2014-10-18
+457.887500		WQAW315	223 DPL	Chipperfield Elementary	Stroudsburg Area School District	Schools	2023-06-03
+458.587500		WPGY667		Fireground 2	Fire	Fire-Talk	2013-01-02
+458.637500		WPGY667		Fireground 4	Fire	Fire-Talk	2013-01-02
+458.712500		WPGY667		Fireground 6	Fire	Fire-Talk	2013-01-02
+460.075000		WPJJ748	165 DPL	Fire Private Channel	Stroudsburg Borough	Fire-Tac	2018-03-07
+460.100000			054 DPL	Monroe County Correctional Facility Ops2	Law Enforcement	Corrections	2014-05-29
+460.112500	465.11250	WQYS852	114.8 PL	Marshalls Creek Fire Dept - Ops	Marshall's Creek Fire Department	Fire-Talk	2024-10-22
+460.125000	465.12500	WNMN250	186.2 PL	Monroe County State Constables	Eldred Township	Law Dispatch	2017-10-28
+460.150000	465.15000	WNXP562	74.4 PL	Pocono Mountain Regional Police	Law Enforcement	Law Dispatch	2015-07-28
+460.250000	465.25000	KNNY470	343 DPL	Haney Repeater	Blue Ridge Hook and Ladder Fire Co	Fire-Tac	2026-03-03
+460.275000	465.27500	WPGA937	2C3 NAC	Interop	Emergency Management	Interop	2019-08-13
+460.275000	465.27500	WPGA937	156.7 PL	PA State 800mhz Link	Pocono Raceway	Law Tac	2017-06-12
+460.275000	465.27500	WPGA937	156.7 PL	Police Tactical	Law Enforcement	Law Tac	2014-06-04
+460.300000	465.30000	WNMJ327	662 DPL	Fire Northeast	Fire	Fire-Tac	2015-12-12
+460.400000	465.40000	WNXC575	343 DPL	Pocono Township Police	Law Enforcement	Law Dispatch	2015-07-28
+460.425000	465.42500	WPEP951	343 DPL	Countywide	Law Enforcement	Law Dispatch	2014-06-04
+460.500000	465.50000	WNWU445	71.9 PL	Dispatch South	Law Enforcement	Law Dispatch	2014-06-04
+460.525000	465.52500	WPGV974	664 DPL	Fire South	Fire	Fire-Tac	2015-12-12
+460.575000	465.57500	WPGU667	664 DPL	Fire West	Fire	Fire-Tac	2013-01-11
+460.612500	465.61250	WPKU491	343 DPL	Tobyhanna Twp Vol Fire Co - Private Channel	Tobyhanna Township	Fire Dispatch	2018-03-07
+460.625000	465.62500	WPGV974	664 DPL	Fire East	Fire	Fire-Tac	2015-12-12
+461.037500			047 DPL	Borgers Speedway - Saylorsburg	Miscellaneous	Business	2013-07-22
+461.112500			131 DPL	Trexler Scout Reservation - Jonas	Miscellaneous	Business	2015-07-24
+461.137500			100.0 PL	Great Wolf Lodge - Lifeguards	Miscellaneous	Business	2014-06-04
+461.200000	466.20000		432 DPL	NASCAR Control Link	Pocono Raceway	Business	2017-06-12
+461.200000	466.20000	WQBE990	132 DPL	Fire Station 42 - Private Channel	Tunkhannock Township	Fire-Talk	2018-03-07
+461.275000	466.27500		043 DPL	Road Department	Polk Township	Public Works	2018-03-07
+461.300000				Site 001 Confirmed LCN	Pocono Mountain School District	TRS	2014-09-09
+461.375000	466.37500	WPMW990	703 DPL	Lake Naomi Club Ch.2 - Lifeguards/Ops	Residential Communities	Business	2014-07-16
+461.387500				Site 029 Blakeslee	Industrial Electronics (264)	TRS	2017-04-20
+461.400000				Site 001 Stroudsburg	Industrial Electronics (Tannersville)	TRS	2014-12-03
+461.412500	466.41250	WPXQ983		Security 1	Lehigh Valley Hospital - Pocono	Security	2017-01-01
+461.412500	466.41250	WPXQ983		Maintenance 1	Lehigh Valley Hospital - Pocono	Business	2017-01-01
+461.412500	466.41250	WPXQ983		Main Talk-Around	Lehigh Valley Hospital - Pocono	Business	2017-01-01
+461.412500	466.41250	WPXQ983	134 DPL	Security - Analog Backup	Lehigh Valley Hospital - Pocono	Security	2017-01-01
+461.437500	466.43750	WNUL869	143 DPL	Operations	Pleasant Valley School District	Schools	2013-05-16
+461.462500	466.46250	WPXQ983		Maintenance 2	Lehigh Valley Hospital - Pocono	Business	2017-01-01
+461.462500	466.46250	WPXQ983		Contractors	Lehigh Valley Hospital - Pocono	Business	2017-01-01
+461.462500	466.46250	WPXQ983	165 DPL	Maintenance - Analog Backup	Lehigh Valley Hospital - Pocono	Business	2017-01-01
+461.600000				Site 001 Confirmed LCN	Pocono Mountain School District	TRS	2014-09-09
+461.625000	466.62500	WNUL869	125 DPL	Staff	Pleasant Valley School District	Schools	2013-05-17
+461.700000		WQAW315	223 DPL	Operations	Stroudsburg Area School District	Schools	2023-06-03
+461.762500				Site 001 Confirmed LCN	Industrial Electronics (Blakeslee)	TRS	2012-04-16
+461.800000	466.80000	WPNU886		Fixed Routes - Main	County Transit Authority	Transportation	2017-01-01
+461.800000		WPNU886		Fixed Routes - Talk-Around	County Transit Authority	Transportation	2017-01-01
+461.800000	466.80000	WPNU886		Shared Ride - Main	County Transit Authority	Transportation	2017-01-01
+461.800000		WPNU886		Shared Ride - Talk-Around	County Transit Authority	Transportation	2017-01-01
+461.800000		WPNU886	156.7 PL	Operations - Analog Backup	County Transit Authority	Transportation	2017-01-01
+461.850000				Site 001 Confirmed LCN	Industrial Electronics (Blakeslee)	TRS	2012-04-16
+461.850000				Site 002 Unconfirmed LCN	Industrial Electronics (Blakeslee)	TRS	2010-05-30
+461.850000				Site 029 Blakeslee	Industrial Electronics (264)	TRS	2017-04-20
+461.862500	466.86250	WPVZ924	156 DPL	East Campus	Pocono Mountain School District	Schools	2014-02-14
+461.900000	466.90000	WPMW990	412 DPL	Lake Naomi Club Ch.3 - Recreation Services	Residential Communities	Business	2014-07-16
+461.912500	465.91250	WQOK955	703 DPL	Operations	Monroe Career & Technical Institute	Schools	2015-05-05
+461.912500				Site 023 Stroudsburg	Industrial Electronics (264)	TRS	2017-05-11
+461.950000	466.95000	WPUK581		Maintenance	Walmart Distribution Center - Tobyhanna	Business	2020-05-08
+461.950000	466.95000	WPUK581		Spare Channel	Walmart Distribution Center - Tobyhanna	Business	2020-05-08
+461.975000			331 DPL	Pocono Summit Vol Fire Co - Private Channel	Tobyhanna Township	Fire-Tac	2018-03-07
+462.025000	467.02500	KNDG321	754 DPL	Pocono Mountain School District	Pocono Mountain School District	Schools	2013-01-13
+462.025000		KNDG321		Pocono Mountain East School	Pocono Mountain School District	Schools	2021-12-18
+462.050000				Site 001 Confirmed LCN	Pocono Mountain School District	TRS	2014-09-09
+462.075000				Site 001 Primary	Mount Airy Casino Resort	TRS	2014-02-05
+462.087500				Site 001 Confirmed LCN	East Stroudsburg University	TRS	2015-03-05
+462.112500				Site 001 Stroudsburg	Industrial Electronics (Tannersville)	TRS	2014-12-03
+462.112500				Site 012 Tannersville	Industrial Electronics (264)	TRS	2017-05-12
+462.150000		KNDG321		Pocono Mountain East School	Pocono Mountain School District	Schools	2021-12-18
+462.162500	467.16250	WPVZ924	156 DPL	West Campus - Staff	Pocono Mountain School District	Schools	2013-11-07
+462.225000	467.22500	WQCB941	731 DPL	Stroud Mall - Operations	Retail Operations	Business	2017-10-16
+462.300000	467.30000	WPTK331	703 DPL	Admin/Transportation	Stroudsburg Area School District	Schools	2013-01-13
+462.350000	467.35000	WPUK581		Asset Protection	Walmart Distribution Center - Tobyhanna	Security	2020-05-08
+462.350000	467.35000	WPUK581		RSR/Forklift Ops	Walmart Distribution Center - Tobyhanna	Business	2020-05-08
+462.400000	467.40000	WPTC980	732 DPL	A Pocono Country Place (Voice Inversion)	Residential Communities	Business	2014-02-14
+462.400000	467.40000	WPTC980	654 DPL	A Pocono Country Place - Public Safety	Residential Communities	Business	2014-02-14
+462.400000		WPTC980		Pocono Country Place Tobyhanna	Residential Communities	Business	2019-07-28
+462.425000	467.42500	WPUK581		Yard Ops	Walmart Distribution Center - Tobyhanna	Business	2020-05-08
+462.425000	467.42500	WPUK581		Product Flow Control	Walmart Distribution Center - Tobyhanna	Business	2020-05-08
+462.462500		WQAW315	223 DPL	Staff Ops	Stroudsburg Area School District	Schools	2023-06-03
+462.500000			051 DPL	Venezia Mill Operations - Mt Pocono	Retail Operations	Business	2017-07-07
+462.500000		WQBB963	054 DPL	Tamiment Resort	Hotels	Business	2012-08-08
+462.675000	467.67500		054 DPL	Fire Police	Jackson Township	Fire-Talk	2013-11-10
+462.887500	467.88750	WPVZ924	365 DPL	East Campus - Swiftwater Intermediate	Pocono Mountain School District	Schools	2014-11-06
+462.950000	467.95000	WQRV848	186.2 PL	Eastern PA Med Com Med-9	EMS	Hospital	2022-01-11
+462.975000	467.97500	WQRV848	186.2 PL	Eastern PA Med Com Med-10	EMS	Hospital	2022-01-11
+463.050000		WQRV848	192.8 PL	Eastern PA Med Com Med-3	EMS	EMS-Talk	2022-01-11
+463.212500	468.21250	WQXN590		St. Luke's Security/Maintenance	St. Lukes Hospital - Monroe	Security	2023-06-03
+463.225000				Site 012 Tannersville	Industrial Electronics (264)	TRS	2017-05-12
+463.250000				Site 001 Primary	Mount Airy Casino Resort	TRS	2014-02-05
+463.287500	468.28750	WPVX567	654 DPL	Locust Ridge - Security	Residential Communities	Security	2009-12-07
+463.287500	468.28750		654 DPL	Locust Lake Village - Security	Residential Communities	Security	2014-07-16
+463.300000				Site 001 Stroudsburg	Industrial Electronics (Tannersville)	TRS	2014-12-03
+463.325000				Site 001 Confirmed LCN	Industrial Electronics (Blakeslee)	TRS	2012-04-16
+463.325000				Site 029 Blakeslee	Industrial Electronics (264)	TRS	2017-04-20
+463.350000		WQAW315	223 DPL	Morey Elementary	Stroudsburg Area School District	Schools	2023-06-03
+463.362500				Site 001 Confirmed LCN	Pocono Mountain School District	TRS	2014-09-09
+463.375000		WNHJ223	723 DPL	Parking Ops	Pocono Raceway	Business	2017-06-12
+463.462500				Site 001 Confirmed LCN	Pocono Mountain School District	TRS	2014-09-09
+463.550000	468.55000		023 DPL	Fire Teams	Pocono Raceway	Fire-Tac	2017-06-12
+463.587500		WPVZ924	115 DPL	Clear Run Centers	Pocono Mountain School District	Schools	2014-02-14
+463.600000	468.60000	WPTC980	654 DPL	A Pocono Country Place - Maintenance	Residential Communities	Business	2014-02-14
+463.612500				Site 001 Confirmed LCN	East Stroudsburg University	TRS	2015-03-05
+463.625000			82.5 PL	WGM Transportation (Taxi in East Stroudsburg)	Transportation	Transportation	2009-02-13
+463.650000	468.65000	WNHJ223	100.0 PL	Shuttles/ADA Carts	Pocono Raceway	Business	2017-06-12
+463.662500				Site 002 Unconfirmed LCN	East Stroudsburg University	TRS	2015-03-05
+463.675000				Site 002 Unconfirmed LCN	Industrial Electronics (Blakeslee)	TRS	2010-05-30
+463.675000				Site 029 Blakeslee	Industrial Electronics (264)	TRS	2017-04-20
+463.725000		WPMT607	88.5 PL	Roads Department	Smithfield Township	Public Works	2018-03-07
+463.737500				Site 003 Tannersville	TuWAY Communications	TRS	2018-07-25
+463.750000			203.5 PL	Ch 3 Ski School	Shawnee Mountain Ski Area	Business	2025-12-22
+463.825000	468.82500	WPWR662	156 DPL	Saylorsburg Repeater	Blue Ridge Hook and Ladder Fire Co	Fire-Tac	2026-03-03
+463.875000				Site 024 Tannersville	Mid-Atlantic Digital Radio Network	TRS	2019-01-03
+463.887500				Site 001 Easton Site	Industrial Communications (Monroe)	TRS	2013-03-10
+463.900000	468.90000	WNHJ223	423 DPL	Guest Services	Pocono Raceway	Business	2017-06-12
+463.912500				Site 001 Easton Site	Industrial Communications (Monroe)	TRS	2013-03-10
+464.000000	469.00000	WPMW990	261 DPL	Lake Naomi Club Ch.1 - Security	Residential Communities	Business	2014-07-16
+464.037500				Site 029 Blakeslee	Industrial Electronics (264)	TRS	2017-04-20
+464.100000	469.10000	WPJU411	131.8 PL	EMS - LVHN West End (Private)	EMS	EMS-Talk	2023-06-03
+464.100000	469.10000	WPJU411	131.8 PL	EMS West End	Lehigh Valley Health Network	EMS Dispatch	2024-10-22
+464.175000				Site 001 Stroudsburg	Industrial Electronics (Tannersville)	TRS	2014-12-03
+464.187500				Site 023 Stroudsburg	Industrial Electronics (264)	TRS	2017-05-11
+464.337500	469.33750	WQXN590		St. Luke's Operations	St. Lukes Hospital - Monroe	Business	2017-01-01
+464.425000	469.42500	WNHJ223	192.8 PL	Tower Ch. 1 - Operations/Year Round Events	Pocono Raceway	Business	2017-06-12
+464.500000			77.0 PL	Holiday Inn Express Stroudsburg	Hotels	Business	2019-09-18
+464.500000			94.8 PL	West End Fair - Gilbert	Miscellaneous	Business	2013-09-01
+464.575000	469.57500	WQCK343	627 DPL	Transportation 1	East Stroudsburg School District	Schools	2024-10-22
+464.600000	469.60000		631 DPL	NASCAR Control Link	Pocono Raceway	Business	2017-06-12
+464.650000				Site 003 Tannersville	TuWAY Communications	TRS	2018-07-25
+464.675000	469.67500	WPBK406	654 DPL	Locust Lake Village - Operations	Residential Communities	Business	2014-07-16
+464.675000	469.67500	WQCK343	110.9 PL	Transportation 2	East Stroudsburg School District	Schools	2024-10-22
+464.700000	469.70000	WNUL869	065 DPL	Transportation	Pleasant Valley School District	Schools	2013-01-13
+464.700000	469.70000	WNUL869	114 DPL	Security	Pleasant Valley School District	Security	2014-10-25
+464.737500		WPUI784	125 DPL	Grounds	Pleasant Valley School District	Schools	2013-05-16
+464.775000	469.77500		032 DPL	Tower - Race Control	Pocono Raceway	Business	2017-08-23
+464.775000		WNNI728	110.9 PL	Operations	East Stroudsburg School District	Schools	2024-10-22
+464.775000	469.77500		412 DPL	Jack Frost Ski Resort	Miscellaneous	Business	2009-08-26
+464.875000	469.87500	KNHQ339	203.5 PL	Ch 1 Ski Patrol / Top Shack	Shawnee Mountain Ski Area	Business	2025-12-22
+464.887500				Site 012 Tannersville	Industrial Electronics (264)	TRS	2017-05-12
+464.950000				Site 023 Stroudsburg	Industrial Electronics (264)	TRS	2017-05-11
+464.962500				Site 029 Blakeslee	Industrial Electronics (264)	TRS	2017-04-20
+464.975000		KNHQ339	203.5 PL	Ch 2 Security	Shawnee Mountain Ski Area	Business	2025-12-22
+467.762500			110.9 PL	Cars on Course COC1 - Event Flaggers	Pocono Raceway	Business	2025-05-13
+467.762500			88.5 PL	Cramers Store - Pocono Summit	Retail Operations	Business	2013-12-14
+467.762500				Shirley Futch Plaza - Maintenance 1	Senior Living	Business	2011-02-01
+467.812500				Shirley Futch Plaza - Maintenance 2	Senior Living	Business	2011-02-01
+467.850000		WPRH464	67.0 PL	High School Teachers/Custodians	Pleasant Valley School District	Schools	2015-04-05
+467.900000				West End Fair Command - Link to 453.125	Miscellaneous	Business	2017-08-24
+467.925000		WPRH464	67.0 PL	Middle School	Pleasant Valley School District	Schools	2015-02-08
+468.637500		WQPV727	031 DPL	Kinsley Shoprite - Brodheadsville	Retail Operations	Business	2017-08-25
+468.825000			103.5 PL	Indy Race Control	Pocono Raceway	Business	2017-08-23
+468.900000		WNHJ223	186.2 PL	Parking Ops	Pocono Raceway	Business	2017-06-12
+469.025000		WPRL468	025 DPL	Ceasars Pocono Resorts at Paradise Stream - Operations	Hotels	Business	2014-03-16
+469.037500			047 DPL	Food Stands	Pocono Raceway	Business	2017-06-12
+469.500000			065 DPL	Trexler Scout Reservation - Jonas	Miscellaneous	Business	2019-08-07
+769.443750				Site 019 Delaware Water Gap	New Jersey Interoperability Communications System (NJICS)	TRS	2017-12-28
+769.718750				Site 019 Delaware Water Gap	New Jersey Interoperability Communications System (NJICS)	TRS	2017-12-28
+769.956250				Site 019 Delaware Water Gap	New Jersey Interoperability Communications System (NJICS)	TRS	2017-12-28
+770.181250				Site 035 Delaware Water Gap Bridge	New Jersey Interoperability Communications System (NJICS)	TRS	2017-12-28
+773.093750				Site 019 Delaware Water Gap	New Jersey Interoperability Communications System (NJICS)	TRS	2017-12-28
+773.556250				Site 035 Delaware Water Gap Bridge	New Jersey Interoperability Communications System (NJICS)	TRS	2017-12-28
+773.818750				Site 019 Delaware Water Gap	New Jersey Interoperability Communications System (NJICS)	TRS	2017-12-28
+773.843750				Site 035 Delaware Water Gap Bridge	New Jersey Interoperability Communications System (NJICS)	TRS	2017-12-28
+774.043750				Site 019 Delaware Water Gap	New Jersey Interoperability Communications System (NJICS)	TRS	2017-12-28
+774.068750				Site 035 Delaware Water Gap Bridge	New Jersey Interoperability Communications System (NJICS)	TRS	2017-12-28
+854.050000				Site 012 Wind Gap (NORH60)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2024-09-16
+854.187500				Site 111 Mount Pocono 800 (MONR03)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2021-07-15
+854.537500				Site 111 Mount Pocono 800 (MONR03)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2021-07-15
+856.762500				Site 111 Mount Pocono 800 (MONR03)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2021-07-15
+857.275000				Site 012 Wind Gap (NORH60)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2024-09-16
+858.050000				Site 012 Wind Gap (NORH60)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2024-09-16
+860.112500	815.11250	WPHJ304	165 DPL	Fernwood Resort Safety/Security Ops	Miscellaneous	Security	2015-04-16
+902.225000	927.22500	N3GRQ	131.8 PL	N3GRQ	33cm	Ham	2023-06-28
+902.225000	927.22500	N3GRQ	293 NAC	N3GRQ	33cm	Ham	2023-06-28
