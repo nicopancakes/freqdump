@@ -1,0 +1,67 @@
+Frequency	Input	License	Tone	Description	Category	Tag	Updated
+46.180000		KNCM850	CSQ	Low Band link to Comm Center	Fire	Fire-Talk	2011-11-20
+122.700000			CSQ	Unicom	Mountain Bay Air Park Inc (PA49)	Aircraft	2009-01-11
+145.330000	144.73000	AA2HA	141.3 PL	Dingman's Ferry	2m Ham	Ham	2013-04-22
+145.350000	144.75000	K3TSA	100.0 PL	Pike County ARES/RACES Group (ARES/Skywarn) - Shohola (linked with 146.715)	2m Ham	Ham	2014-10-16
+145.490000	144.89000	K3TSA	CSQ	Pike County ARES/RACES Group (ARES/Skywarn) - Tafton	2m Ham	Ham	2023-10-03
+151.010000	156.06000	WPUU801	445 DPL	DPW	Lackawaxen	Public Works	2011-05-11
+151.235000	153.80000	WPKT952	156.7 PL	Local Government	Services	Public Works	2011-11-26
+151.257500	153.86000	WQLN531	69.3 PL	EMS 3 Response	EMS	EMS Dispatch	2024-08-09
+151.287500				Site 105 Dingmans Ferry (PIKE31)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2023-03-26
+151.385000				Site 008 Milford (PIKE33)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2024-02-02
+152.055000				Site 105 Dingmans Ferry (PIKE31)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2023-03-26
+152.382500		WQHD774	136.5 PL	Operations	Saw Creek Estates Community Association	Business	2017-05-26
+152.390000	157.65000	WPRF388	071 DPL	Hemlock Farms Community Association	Hemlock Farms Community Association	Business	2017-05-26
+152.465000	157.72500	KNJA851	203.5 PL	Gold Key Country Club	Gold Key Country Club Private Community	Business	2017-05-26
+152.745000				Site 105 Dingmans Ferry (PIKE31)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2023-03-26
+153.005000		WQTS482		Woodloch Resort	Woodloch Resort	Business	2023-07-11
+153.005000		WQTS482		Woodloch Resort	Woodloch Resort	Business	2023-07-11
+153.545000	158.38500	WPRF388	167.9 PL	Hemlock Farms Public Safety	Hemlock Farms Community Association	Security	2017-05-26
+153.950000		WSEU923	173.8 PL	Ch. 2 Fireground East	Fire	Fire-Tac	2025-09-09
+154.032500				Site 008 Milford (PIKE33)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2024-02-02
+154.047500	159.06750	WQJC613	156 DPL	Fireground	Shohola	Fire-Tac	2012-03-31
+154.115000				Site 008 Milford (PIKE33)	PA-STARNet: Pennsylvania Statewide Radio Network	TRS	2024-02-02
+154.130000	150.80500	KCO363	263 DPL	Fire Repeater	Delaware	Fire-Tac	2012-04-13
+154.160000		WQLL810	173.8 PL	Ch. 3 Landing Zone Ops	Fire	Fire-Tac	2011-11-20
+154.190000		WQLL810	173.8 PL	Ch. 4 Fireground West/Water Incidents Countywide	Fire	Fire-Tac	2025-09-09
+154.220000	151.31000	WPYD510	125 DPL	Tafton Fireground	Palmyra	Fire-Tac	2011-11-20
+154.235000		WQJE417	173.8 PL	Fireground	Matamoras	Fire-Tac	2011-11-20
+154.250000		WQLL810	173.8 PL	Ch. 5 Alternate Fireground/Fire Police	Fire	Fire-Tac	2011-11-20
+154.355000		KCO363	173.8 PL	Fireground	Delaware	Fire-Tac	2012-04-13
+154.370000		WPTR650	173.8 PL	Fireground	Westfall	Fire-Tac	2011-11-20
+154.400000	153.89000	WQEI417	206.5 PL	Hemlock Farms Fire/EMS Ops	Porter	Fire-Tac	2011-11-20
+154.415000	150.77500	KNFS963	026 DPL	Fire and EMS Ops	Dingman	Fire-Tac	2011-11-20
+154.445000	153.77000	WNHQ590	173.8 PL	Ch. 1 Dispatch/Response	Fire	Fire Dispatch	2011-11-20
+154.570000			CSQ	Walmart (Milford)	Miscellaneous	Business	2018-07-05
+154.965000		WQLE838	100.0 PL	Fireground Primary - Tac 2	Lackawaxen	Fire-Tac	2011-07-28
+155.085000	158.76000	WPGM453		Correctional Facility	Law Enforcement	Corrections	2025-02-09
+155.115000		WQLE838	100.0 PL	Fireground Secondary - Tac 3	Lackawaxen	Fire-Tac	2011-07-28
+155.160000		WNNQ553	173.8 PL	EMS 2	EMS	EMS-Tac	2025-04-09
+155.265000		WNQZ390	173.8 PL	EMS 1 Dispatch	EMS	EMS Dispatch	2024-08-09
+155.625000	154.65000	KZQ754	162.2 PL	Countywide Police	Law Enforcement	Law Dispatch	2011-11-20
+155.775000		WNMQ769	162.2 PL	Sheriff	Law Enforcement	Law Tac	2011-11-20
+155.940000	150.79000	WPUH758	173.8 PL	Fireground	Blooming Grove	Fire-Tac	2011-11-20
+156.135000	159.00000	WPQA240	071 DPL	DPW/EMA	Porter	Public Works	2011-11-20
+156.240000	153.98000	WQLE838	100.0 PL	Fire/EMS Ops - Tac 1	Lackawaxen	Fire-Tac	2011-07-28
+158.805000		WPKT952	156.7 PL	DPW	Services	Public Works	2011-11-20
+158.925000	153.92000	WQFQ901	173.8 PL	Fire Repeater	Westfall	Fire-Talk	2011-11-20
+159.030000	154.89750	WQHT657	173.8 PL	Fireground and EMS Ops	Milford	Fire-Tac	2012-10-31
+159.090000	153.74000	KM8618	205 DPL	DPW	Delaware	Public Works	2012-04-16
+159.210000		WPHK383	162.2 PL	Eastern Pike Regional PD Tac	Law Enforcement	Law Tac	2018-10-16
+451.350000				Site 119 Westfall	OneVoice MAX	TRS	2024-05-28
+451.625000	456.62500	WQWY240	025 DPL	Public Safety & Maintenance	Pocono Ranchlands POA	Business	2017-05-26
+452.350000				Site 011 Blooming Grove	Industrial Electronics (264)	TRS	2017-02-03
+452.525000	457.52500	WQTD290		Security & Maintenance	Wild Acres Lakes Property & Homeowners Association	Business	2017-05-26
+452.562500				Site 119 Westfall	OneVoice MAX	TRS	2024-05-28
+452.625000				Site 011 Blooming Grove	Industrial Electronics (264)	TRS	2017-02-03
+453.625000	458.62500	WQQC937	243 DPL	Fire Operations	Bushkill	Fire-Tac	2013-04-19
+454.193750				Site 019 Westfall	OneVoice Network	TRS	2016-05-22
+462.037500				Site 011 Blooming Grove	Industrial Electronics (264)	TRS	2017-02-03
+463.750000				Site 019 Westfall	OneVoice Network	TRS	2016-05-22
+463.962500				Site 011 Blooming Grove	Industrial Electronics (264)	TRS	2017-02-03
+463.987500				Site 019 Westfall	OneVoice Network	TRS	2016-05-22
+464.325000	469.32500	WNPK288	654 DPL	Birchwood Lakes Community Association	Birchwood Lakes Community Association	Business	2017-05-26
+464.837500	469.83750	WNUU578	271 DPL	District Ops	Delaware Valley School District	Schools	2012-09-10
+464.925000	469.92500	WQQK633	167.9 PL	Trails End Property Owners Association	Shohola Falls Trails End POA	Business	2013-04-30
+469.000000		WNUU578	243 DPL	District Ops	Delaware Valley School District	Schools	2012-09-10
+469.787500			364 DPL	Fernwood Winter Fun Center (Bushkill)	Fernwood Resort	Business	2017-05-26
